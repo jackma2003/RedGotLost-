@@ -24,6 +24,6 @@ Welcome to Red Got Lost, an exciting 2D platform puzzle adventure game based on 
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository
 2. Make sure the OpenGL and SDL settings are set properly
 3. Have Fun!
